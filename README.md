@@ -44,5 +44,16 @@ https://user-images.githubusercontent.com/51222320/160022185-2de0b217-801e-40d9-
 * Copy the model weights in [here](https://github.com/mjoshi07/Underwater-Robotics/tree/main/data/model)
 
 ## Blender model
-* BlueROV model downlaod from [here](https://github.com/patrickelectric/bluerov_ros_playground)
+* BlueROV model download from [here](https://github.com/patrickelectric/bluerov_ros_playground)
 * Oysters model download from [here](https://drive.google.com/drive/folders/1XY2yMnFDCiSR8H6S84OS8WX1tzu2OnCW?usp=sharing)  
+
+## Oyster
+*  Real oyster shell 3D scanned download from [here](https://drive.google.com/file/d/1HHG0DgUhp8Y4HcdQ_73TGFF0LlRqlrRl/view?usp=drive_link)
+
+*  Real texture of the oysters download from [here](https://drive.google.com/file/d/1YeZ-n26ZMMuQZt6hvk7xIqGWPx8I_PB0/view?usp=drive_link)
+
+*  Synthetic oyster 3D model generated download from [here](https://drive.google.com/file/d/1gCsfCEvZdz2r6LRovOPyRNMDe1sy3JYU/view?usp=drive_link)
+
+* Script and the necessary files for generating the Synthetic oyster shell 3D models download from [here](https://drive.google.com/file/d/1voYyoOtJ9ATvKSsOLbU2eRfJl8iawLXe/view?usp=drive_link)
+
+* Dataset that we generated for the Synthetic Oysters download from [here](https://drive.google.com/file/d/1MPf3yKrdOVxT-Bfe5PfmhajgeeyG7MFx/view?usp=drive_link)
